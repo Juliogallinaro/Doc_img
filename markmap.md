@@ -35,9 +35,10 @@ markmap:
     - ABS-like
     - Biocompatíveis:
       - priZma Bio Splint: 
-        - [artigo biocompatibilidade](https://drive.google.com/file/d/1C7yh1aE9JgiG2JWLa9L-gHY_POc0hEjP/view?usp=sharing)
+        - [Artigo biocompatibilidade](https://drive.google.com/file/d/1C7yh1aE9JgiG2JWLa9L-gHY_POc0hEjP/view?usp=sharing)
   - Parâmetros calibrados (1.4–2.1 s)
   - Problemas: fechamento de canais • envergamento • cura interna
+  - [Artigos](https://drive.google.com/drive/folders/10k25BLZkn9ftjy6EAHRU1O4rbI8oY3T0?usp=drive_link)
   
 
 
@@ -49,6 +50,9 @@ markmap:
 
 - **Usinagem CNC**
   - Fresamento de microcanais
+      - PMMA:
+        - [Artigos](https://drive.google.com/drive/folders/1UGEaE2wZF2gBufoUUlp4kxt1sr9EYxjb?usp=drive_link)
+      - [Usinagem](https://drive.google.com/drive/folders/1rQCA3WnkzGg6dWyQxfqeuspD6xnW_hT6?usp=drive_link)
   - Brocas de 0.3 mm – força de corte – vibração
   - Comparação com impressão 3D
 
@@ -60,8 +64,9 @@ markmap:
 - Droplet generator (T-junction / flow-focusing)
 - Chips para montagem de esferoides
 - Canais para citotoxicidade
-- Chips multimateriais (resina + PDMS + acrílico):
-  - ![Funcional](https://drive.google.com/uc?export=view&id=SEU_FILE_ID)
+- Chips multimateriais (resina + PDMS + acrílico): <!-- markmap: fold -->
+  - <img src="https://raw.githubusercontent.com/Juliogallinaro/Doc_img/refs/heads/main/chip%20cnc.drawio.png" width="100
+  " alt="Funcional"> 
 - Testes de transmição óptica
 
 ## Ensaios Biológicos <!-- markmap: fold -->
