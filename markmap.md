@@ -41,9 +41,12 @@ markmap:
     - Biocompatíveis:
       - priZma Bio Splint: 
         - [Artigo biocompatibilidade](https://drive.google.com/file/d/1C7yh1aE9JgiG2JWLa9L-gHY_POc0hEjP/view?usp=sharing)
+    - TR250LV
+      - ref
   - Parâmetros calibrados (1.4–2.1 s)
   - Problemas: fechamento de canais • envergamento • cura interna
   - [Artigos](https://drive.google.com/drive/folders/10k25BLZkn9ftjy6EAHRU1O4rbI8oY3T0?usp=drive_link)
+
   
 
 
@@ -52,6 +55,9 @@ markmap:
   - Pós-cura e acabamento superficial
   - Replicação em PDMS (Sylgard 184)
   - Tratamento para não aderência (silanização)
+  - TR250LV:
+    - ![Stem Cell](ref/3D_printing/Mold/TR250LV/s41378-023-00607-y.pdf_thumb.png)
+    - [Ref](ref/3D_printing/Mold/TR250LV)
 
 - **Usinagem CNC**
   - Fresamento de microcanais
