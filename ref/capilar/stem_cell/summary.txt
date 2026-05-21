@@ -1,0 +1,5 @@
+Microfluidic Chip Summary — Lei et al., 2021
+Purpose: Produce monodisperse, injectable HAMA@HepMA microgels for endogenous stem cell recruitment in osteoarthritis treatment — no cell encapsulation required.
+Device: Flow-focusing chip. Dispersed phase (4% HAMA + 0.4% HepMA + 0.4% photoinitiator) meets continuous phase (paraffin oil + 5% Span 80) at the junction, generating droplets crosslinked on-chip by UV.
+Output: 256.6 ± 6.25 µm spherical, porous MGs — size tuned via flow rate ratio. Post-fabrication: washed with acetone/DI water, lyophilized, then rehydrated in GF solution (PDGF-BB + TGF-β3 bind non-covalently to heparin, 96% and 91% loading efficiency).
+Why the chip matters: Monodispersity and size control are critical for injectability and cell attachment surface area — both unachievable by bulk gelation methods.

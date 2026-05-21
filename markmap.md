@@ -14,6 +14,11 @@ markmap:
 ### Bombas de Seringa (Arduino)   
 - Baseadas em **Arduino Nano / Uno**
 - Driver: TB6600
+- Software:
+  - Codigo: 
+    - [Pump](pump/pump.ino)
+    - [Teste fuso](pump/teste_fuso.ino)
+      
 - Ensaios:
   - Calibração volumétrica
   - Curvas de vazão (10–500 µL/min)
@@ -59,6 +64,20 @@ markmap:
 - **Corte/Laser IPEN**
   - Fabricação híbrida Vidro + PDMS
 
+- **Capilar de vidro**
+  - Primeiro chip: 
+    - [Fotos](chip_capilar/fotos)
+    - ![Chip microfluídico](chip_capilar/fotos/20260505_234414_thumb.jpg)
+
+  - Refs:
+    - Mesma montagem: 
+      - Stem Cell
+        - ![Stem Cell](ref/capilar/stem_cell/capilar_chip_thumb.png)
+        - [Ref](ref/capilar/stem_cell)
+    - Parâmetros: Dripping, Jetting: 
+      - ![Stem Cell](ref/capilar/coflow/Utada2007_thumb.png)
+      - [Ref](ref/capilar/coflow/Utada2007.pdf)
+
 ### Tipos de Chips Desenvolvidos
 
 - Droplet generator (T-junction / flow-focusing)
@@ -68,6 +87,11 @@ markmap:
   - <img src="https://raw.githubusercontent.com/Juliogallinaro/Doc_img/refs/heads/main/chip%20cnc.drawio.png" width="100
   " alt="Funcional"> 
 - Testes de transmição óptica
+
+
+### Teoria
+  - CFD:
+    - [Livro USP](Livros/fluidos_geral/docsity-fortuna-tecnicas-computacionais-para-dinamica-dos-fluidos.pdf)
 
 ## Ensaios Biológicos <!-- markmap: fold -->
 
@@ -121,6 +145,7 @@ markmap:
   - OpenCV
   - scikit-image
   - TrackPy
+- [Artigo com dataset ](https://drive.google.com/file/d/1N9s7DOyEdzP1_A9YSQoLibZ1VShJpRSR/view?usp=drive_link)
 
 ### Métricas Extraídas
 
